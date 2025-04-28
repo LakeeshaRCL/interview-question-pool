@@ -120,11 +120,12 @@
 
 ## 9. Understanding the Business Requirements (5 marks)  
 
-1. **Given a set of business requirements, how do you identify key features to implement first?**  
-2. **Explain how you translate business rules into software design decisions.**  
-3. **How do you handle ambiguous or incomplete business requirements during development?**  
-4. **Describe the process of validating that your software meets business requirements.**  
-5. **How do you prioritize features when working under tight deadlines?**
+1. **Overall understanding of the project and its requirements**
+2. **Given a set of business requirements, how do you identify key features to implement first?**  
+3. **Explain how you translate business rules into software design decisions.**  
+4. **How do you handle ambiguous or incomplete business requirements during development?**  
+5. **Describe the process of validating that your software meets business requirements.**  
+6. **How do you prioritize features when working under tight deadlines?**
 
 ---
 
